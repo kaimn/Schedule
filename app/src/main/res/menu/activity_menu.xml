@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_get_course"
+        android:title="@string/login_courceschedule" />
+    <item
+        android:id="@+id/qiandao"
+        android:title="@string/qiandao" />
+    <item
+        android:id="@+id/change_cource"
+        android:title="@string/add_courceschedule" />
+
+</menu>
